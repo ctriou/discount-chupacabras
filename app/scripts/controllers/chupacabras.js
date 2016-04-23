@@ -8,6 +8,6 @@
  * Controller of the scrumSiteApp
  */
 angular.module('scrumSiteApp')
-  .controller('ChupacabrasCtrl', function () {
+  	.controller('ChupacabrasCtrl', function () {
 
-  });
+	});
