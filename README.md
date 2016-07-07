@@ -6,9 +6,13 @@ version 0.15.1.
 ## Installation
 First install [node.js](https://nodejs.org/en/download/)
 
-Then install grunt & bower
+Then install grunt globally if it's not already
 
-`npm install -g grunt-cli bower`
+`npm install -g grunt-cli`
+
+Run npm install
+
+`npm install`
 
 Clone this repo, and from the resulting folder:
 
